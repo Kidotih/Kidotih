@@ -1,9 +1,7 @@
-                               Hi 👋, I'm Samuel 
+Hi 👋, I'm Samuel 
 
 
+visit 👉 [ https://samuelekisa.com](https://kidotih-samuel-ekisa-portfolio-main-xmbrfj.streamlit.app)
 
-  
-                        👉 [ https://samuelekisa.com](https://kidotih-samuel-ekisa-portfolio-main-xmbrfj.streamlit.app)
-
-                       ✨ Automate. Educate. Inspire. ✨
+✨ Automate. Educate. Inspire. ✨
 

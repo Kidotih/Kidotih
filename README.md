@@ -3,7 +3,7 @@ Hi 👋, I'm Samuel
 💡 I design, build, and innovate — turning ideas into clean, automated, and intelligent systems.
 
 🌐 Visit my live portfolio:  
-👉 [https://kidotih-samuel-ekisa-portfolio-main-xmbrfj.streamlit.app/](https://kidotih-samuel-ekisa-portfolio-main-xmbrfj.streamlit.app/)
+👉 [Open](https://kidotih-dynamic-knowledge-dashboard-app-16krab.streamlit.app)
 
 ✨ Automate. Educate. Inspire. ✨
 

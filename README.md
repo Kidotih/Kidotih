@@ -1,4 +1,4 @@
-                                    #Hi 👋, I'm Samuel 
+Hi 👋, I'm Samuel 
 
 💡 I design, build, and innovate — turning ideas into clean, automated, and intelligent systems.
 
